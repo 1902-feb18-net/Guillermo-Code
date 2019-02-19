@@ -1,4 +1,5 @@
 ﻿using System;
+using MoreAnimals.Library;
 
 namespace MoreAnimals
 {
@@ -7,6 +8,9 @@ namespace MoreAnimals
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            var fido = new Dog();
+       
         }
     }
 }

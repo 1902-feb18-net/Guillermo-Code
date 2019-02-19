@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreAnimals", "MoreAnimals\MoreAnimals.csproj", "{23362BE9-42D1-414C-AD0F-6BF6D9593791}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MoreAnimalsLibrary", "MoreAnimalsLibrary", "{A2B354A4-B4FB-4C9B-B6BD-33C6265C1A4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreAnimals.Library", "MoreAnimals.Library\MoreAnimals.Library.csproj", "{944AAD0F-AA17-40F5-8C24-7AF8EA473F26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +17,10 @@ Global
 		{23362BE9-42D1-414C-AD0F-6BF6D9593791}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23362BE9-42D1-414C-AD0F-6BF6D9593791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23362BE9-42D1-414C-AD0F-6BF6D9593791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944AAD0F-AA17-40F5-8C24-7AF8EA473F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944AAD0F-AA17-40F5-8C24-7AF8EA473F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944AAD0F-AA17-40F5-8C24-7AF8EA473F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944AAD0F-AA17-40F5-8C24-7AF8EA473F26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
